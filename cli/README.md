@@ -42,7 +42,7 @@ Options:
   -h, --help                                             显示使用教程
 ```
 
-每个 `config` 选项的默认值都可以在 [`codecs.js`][https://github.com/GoogleChromeLabs/squoosh/blob/dev/cli/src/codecs.js] 文件中的 `defaultEncoderOptions` 找到。
+每个 `config` 选项的默认值都可以在 [`codecs.js`](https://github.com/GoogleChromeLabs/squoosh/blob/dev/cli/src/codecs.js) 文件中的 `defaultEncoderOptions` 找到。
 若值未指定，将会使用上述文件中的默认值。( _此处应有更好的文档_ )
 
 ## 自动优化器
