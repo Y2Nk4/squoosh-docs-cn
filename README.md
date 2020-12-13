@@ -12,7 +12,7 @@ Original Repository / 原始仓库: [GoogleChromeLabs/squoosh](https://github.co
 # CLI
 
 [Squoosh 已拥有 CLI 支持](https://github.com/GoogleChromeLabs/squoosh/tree/dev/cli) 
-你可以用这个cli工具一次性压缩多张图片
+你可以用这个cli工具一次性压缩多张图片 (对应汉化文档: [Squoosh CLI](cli/README.md))
 
 # 隐私说明
 
